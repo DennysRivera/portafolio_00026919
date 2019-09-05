@@ -1,0 +1,41 @@
+/////ALGORITMO 1/////
+
+s = initialize
+valid = true
+
+    if(empty(s)){
+        No hay elementos en la pila
+	return -1
+    }
+    else{
+	e = pop(s)
+	if(!empty(s)){
+	    e = pop(s)
+	break
+    }
+
+if(valid)
+    El segundo elemento es (e)
+
+
+/////ALGORITMO 2/////
+
+s = initialize
+valid = true
+
+    if(empty(s)){
+        No hay elementos en la pila
+	return -1
+    }
+    else{
+	e = pop(s)
+	if(!empty(s)){
+	    r = peek(s)
+	    push(s, e)
+	    break
+	}
+    }
+
+
+if(valid)
+    El segundo elemento es (r)
