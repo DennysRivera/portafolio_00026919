@@ -1,0 +1,16 @@
+ACTIVIDAD 10
+
+
+A-B/(C*D$E)
+A-B/(C*DE$)
+A-B/(CDE$*)
+ABCDE$*/-
+
+--------------------------------
+
+((A+B)*C-(D-E))$(F+G)
+((A+B)*C-(D-E))(F+G)$
+((A+B)C*-(D-E))(F+G)$
+((AB+)C*-(D-E))(FG+)$
+((AB+)C*(DE-)-)(FG+)$
+AB+C*DE--FG+$
