@@ -1,0 +1,40 @@
+﻿Ejercicio 2.3.2.
+
+a)+-ABC
+
+  +(-AB)C
+
+  (A-B)+C
+
+
+b)+A-BC
+
+  A+(-BC)
+
+  A+(B-C)
+
+
+c)++A-*$BCD/+EF*GHI
+
+  ++A-*(B$C)D/+EF(G*H)I
+
+  ++A-((B$C)*D)((+EF)/(G*H))I
+
+  ++A((B$C)*D)-((E+F)/(G*H))I
+
+  +A+((B$C)*D)-((E+F)/(G*H))I
+
+  (A+(((B$C)*D)-((E+F)/(G*H))))+I
+
+d)+-$ABC*D**EFG
+
+  +-(A$B)C*D*EF*G
+
+  +-(A$B)C*D(E*F*G)
+
+  +-(A$B)C(D*E*F*G)
+
+  ((A$B)-C)+(D*E*F*G)
+
+
+
