@@ -1,0 +1,62 @@
+DECIMOCUARTA ACTIVIDAD
+
+Árbol 1
+
+Raíz: A
+Ramas: B, C, D, E, F
+Hojas: G, H, I
+
+Nivel 0: A
+Nivel 1: B, C
+Nivel 2: D, E, F
+Nivel 3: G, H, I
+
+Profundidad: 3
+Peso: 9
+Orden: 2
+
+Sub-árbol:
+	C
+	|-----|
+	E     F
+    |---|---|
+    H	    I
+
+Árbol 1 NO es lleno
+Árbol 1 NO es perfecto
+
+Recorrido en Pre-orden: A, B, D, GC, E, H, I, F
+Recorrido en Post-orden: G, D, B, H, I, E, F, C
+Recorrido en In-orden: G, D, B, A, H, E, I, C, F
+
+
+
+Árbol 2
+
+Raíz: A
+Ramas: B, C, D, E, F, H
+Hojas: I, J, G, K, L
+
+Nivel 0: A
+Nivel 1: B
+Nivel 2: C, D
+Nivel 3: E, F, G, H
+Nivel 4: I, J, K, L
+
+Profundidad: 4
+Peso: 12
+Orden: 2
+
+Sub-árbol: 
+	D
+	|-------|
+	G	H
+	   |----|
+	   K	L
+
+Árbol 2 NO es lleno
+Árbol 2 NO es perfecto
+
+Recorrido en Pre-orden: A, B, C, E, I, F, J, D, G, H, K, L
+Recorrido en Post-orden: i, E, J, F, C, G, K, L, H, D, B, A
+Recorrido en In-orden: I, E, C, J, F, B, G, D, K, H, L, A
